@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_label">Register</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_ConfirmPassword">Confirm Password</string>
+    <string name="hint_name">Enter Yout Name</string>
+    <string name="hint_location">Enter Your City</string>
+</resources>
